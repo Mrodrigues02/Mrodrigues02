@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MatheusRodrigues02
+- 👋 Hi, I’m @Mrodrigues02
 - 👀 I’m interested in study
 - 🌱 I’m currently learning Git, Github and JavaScript
 - 💞️ I’m looking to collaborate on ...
