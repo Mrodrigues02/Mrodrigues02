@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mrodrigues02
 - 👀 I’m interested in study
-- 🌱 I’m currently learning Git, Github and JavaScript
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 
 <!---
