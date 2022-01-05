@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Mrodrigues02
-- 👀 I’m interested in study
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 👋 Olá, Eu sou o Matheus Rodrigues.
+- 🌱 Estou estudando Python, Html, Css e Javascript.
+- 💞️ Procuro por um estágio em programação frontend.
 
 <div>
   <a href="https://github.com/Mrodrigues02">
