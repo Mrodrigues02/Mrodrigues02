@@ -22,7 +22,7 @@
   <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"</a>
   
 
- <a href=""><img src="https://i.picasion.com/pic91/fbf70251cf9d5c71a151e33ca4520dab.gif" width="150" height="150" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
+ <a href=""><img src="https://i.picasion.com/pic91/56ee6bc466dac4ac78fea32a407c1c81.gif" width="180" height="180" border="" alt="" /></a><br /><a href="https://picasion.com/"></a>
 
 
 
