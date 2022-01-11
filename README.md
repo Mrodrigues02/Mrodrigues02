@@ -13,6 +13,9 @@
   <img align="center" alt="Matheus-Ubuntu" heigth="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
 
 ##
+  <a href=""><img src="https://i.picasion.com/pic91/56ee6bc466dac4ac78fea32a407c1c81.gif" width="180" height="180" border="" alt="" /></a><br /><a href="https://picasion.com/"></a>
+  
+  
   
 <div>
   </a>
@@ -22,7 +25,7 @@
   <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"</a>
   
 
- <a href=""><img src="https://i.picasion.com/pic91/56ee6bc466dac4ac78fea32a407c1c81.gif" width="180" height="180" border="" alt="" /></a><br /><a href="https://picasion.com/"></a>
+ 
 
 
 
