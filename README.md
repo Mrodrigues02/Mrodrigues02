@@ -18,7 +18,7 @@
   <img align="center" alt="Matheus-JavaScript" heigth="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Matheus-HTML" heigth="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="Matheus-CSS" heigth="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">
-<img align="center" alt="Matheus-Git" heigth="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+<img align="center" alt="Matheus-Git" heigth="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
 
      
 ##
