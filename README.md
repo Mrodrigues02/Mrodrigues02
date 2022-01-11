@@ -1,6 +1,8 @@
 - 👋 Olá, Eu sou o Matheus Rodrigues.
-- 🌱 Estou estudando Python, Html, Css e Javascript.
-- 💞️ Procuro por um estágio em programação frontend.
+- 🌱 Estou estudando Python, HTML, CSS e JavaScript.
+- 👨🏽‍💻 Procuro por um estágio em programação frontend.
+
+##
 
 <div>
   <a href="https://github.com/Mrodrigues02">
@@ -8,14 +10,22 @@
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrodrigues02&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 
+ ##
+  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Matheus-Ubuntu" heigth="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
+  <img align="center" alt="Matheus-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Matheus-Ubuntu" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
+  <img align="center" alt="Matheus-JavaScript" heigth="30" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Matheus-HTML" heigth="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">
+  <img align="center" alt="Matheus-CSS" heigth="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">
+<img align="center" alt="Matheus-Git" heigth="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
 
+     
 ##
+  
   <a href=""><img src="https://i.picasion.com/pic91/56ee6bc466dac4ac78fea32a407c1c81.gif" width="180" height="180" border="" alt="" /></a><br /><a href="https://picasion.com/"></a>
   
-  
+ ##
   
 <div>
   </a>
