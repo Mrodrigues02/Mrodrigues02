@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/Mrodrigues02">
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=Mrodrigues02&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrodrigues02&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=Mrodrigues02&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrodrigues02&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
  ##
@@ -33,12 +33,4 @@
   <a href="https://www.linkedin.com/in/matheus-rodrigues-090a42219" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/profile.php?id=100006413371870" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"</a>
   <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"</a>
-  
-
- 
-
-
-
-
-  
-</div>
+ </div>
