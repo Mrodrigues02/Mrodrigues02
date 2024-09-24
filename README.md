@@ -1,6 +1,6 @@
 - 👋 Olá, Eu sou o Matheus Rodrigues.
 - 🌱 Estou estudando Python, HTML, CSS e JavaScript.
-- 👨🏽‍💻 Procuro por um estágio em programação frontend.
+
 
 ##
 
